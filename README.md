@@ -2,13 +2,11 @@
    
    Overview of the project:
    
-   The purpose of this project is to perform a comprehensive regression analysis to assess obesity levels in individuals as a function of various demographic, dietary, and lifestyle parameters.     By analyzing the relationships between predictors and the target variable (obesity levels), this project aims to build reliable regression models to estimate obesity levels, providing       
-   valuable insights into public health and nutrition management.
+   The purpose of this project is to perform a comprehensive regression analysis to assess obesity levels in individuals as a function of various demographic, dietary, and lifestyle parameters.     By analyzing the relationships between predictors and the target variable (obesity levels), this project aims to build reliable regression models to estimate obesity levels, providing valuable insights into public health and nutrition management.
 
    Objectives:
 
-   Understanding relationships: Examine how demographic, dietary, and lifestyle factors, such as age, gender, family history of overweight, eating habits, physical activity, and others,     
-   influence obesity levels.
+   Understanding relationships: Examine how demographic, dietary, and lifestyle factors, such as age, gender, family history of overweight, eating habits, physical activity, and others, influence obesity levels.
 
    Developing predictive models:
 
