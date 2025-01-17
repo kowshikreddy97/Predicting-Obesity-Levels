@@ -40,6 +40,7 @@ FAF (Physical Activity Frequency): Frequency of physical activity per week (cont
 TUE (Time Using Technology): Average daily time spent using technological devices, measured in hours (integer).
 CALC (Alcohol Consumption): Frequency of alcohol consumption (categorical: No/Sometimes/Frequently/Always).
 MTRANS (Mode of Transportation): The primary mode of transportation used by the individual (categorical: Walking/Public Transportation/Automobile/Bike/Motorbike).
+
 2. Target:
 
 NObeyesdad (Obesity Level): Obesity level of the individual, categorized as: Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II, Obesity Type III
